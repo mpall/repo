@@ -8,3 +8,7 @@ change6 issue53
 change7 issue53 another change
 Change made by John git_clone file1
 Jesica added this
+featureB change
+featureB change2
+change in featureBee
+
